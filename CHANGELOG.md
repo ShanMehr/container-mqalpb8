@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Jan 05 2024)
+
+#### ⚠️ Pushed to `main`
+
+- vector db stuff ([@ShanMehr](https://github.com/ShanMehr))
+
+#### Authors: 1
+
+- Ishan Meher ([@ShanMehr](https://github.com/ShanMehr))
+
+---
+
 # v0.0.1 (Thu Jan 04 2024)
 
 :tada: This release contains work from a new contributor! :tada:
