@@ -1,7 +1,13 @@
-Flask
-SQLAlchemy
+# Flask
+fastapi
+uvicorn[standard]
+# asgiref
 gunicorn
+sqlalchemy[asyncio]
+asyncpg
+# asyncio
+alembic
 
-PyMySQL
+# PyMySQL
 coloredlogs
 python-dotenv
